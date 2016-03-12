@@ -1,0 +1,139 @@
+		body{
+			margin:0px;
+			padding:0px;
+			
+			}
+		.title{
+			float:left;
+			margin-top:100px;
+			
+			width:100%;
+			position:fixed;
+			}
+			.footer{
+			float:left;
+			#margin-top:100px;
+			background:url('title.jpg');
+			width:100%;
+			position:fixed;
+			}
+		li{
+			font:bold italic 22px times new roman;
+			text-align:center;
+			float:left;
+			padding:5px 20px;;
+			color:#fff;
+			line-height:40px;
+			}
+		a{
+			color:#ddd;
+			text-decoration:none;
+			}
+		ul{
+			width:100%;
+			height:50px;
+			margin:0px;
+			padding:0px;
+			}
+		input{
+			float:left;
+			margin-top:3px;
+			}
+		.image{
+			float:left;
+			width:700px;
+			height:350px;
+			border:10px solid black;
+			margin:30px 300px;
+			}
+		
+		
+		.main-title-font {
+		
+		color:white;
+		margin: 25 0 40 175;
+		position:fixed;
+		font: 38px vivaldi ;
+		
+		
+		}
+		
+		.attach li{font:14px times new roman;}
+		.main-content {
+		
+		width: 100%;
+		height: 900px;
+		position: absolute;
+		
+		}
+		.attach{margin:230px 0px 0px 190px;
+		background:rgba(0,0,0,0.6);
+		float:left;
+		width:72%;
+		height:77%;
+		}
+		
+		ul li ul {
+	margin-top:-3em;
+	margin-left:7em;
+}
+
+		
+ul#dropdown {
+
+list-style: dropdown;
+
+}
+ul#dropdown li, ul#dropdown li ul li {
+
+width: 80px;
+
+}li ul {
+
+display: none;
+
+position: absolute;
+
+width:75px;
+
+}
+ ul li:hover ul
+{
+display: block;
+position: absolute;
+margin: 0;
+padding: 0;
+}
+.box {
+		width: 1045px;
+		margin: 200px 149px 50px 150;
+		float: left;
+		background: url('bckgrnd.jpg');
+		}
+		.image_box {
+			width: 231px;
+			height:260px;
+			float: left;
+			overflow: hidden;
+			margin:10px;
+			padding: 8px;
+			background:black;
+			}
+		.image_box img{
+		width:230px;
+		height:200px;
+		}
+.option_box
+{		width: 100px;
+			height:100px;
+			float: left;
+			overflow: hidden;
+			margin:10px;
+			margin-left: -40px;
+			background:black;
+			float:left;
+	position:relative;
+	line-height: 4.5em;
+			
+	}
+	
